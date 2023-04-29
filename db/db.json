@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "atif",
+      "email": "atif@sftpk.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "tony",
+      "email": "tony@gmail.com",
+      "password": "tony123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "peter123",
+      "id": 3
+    },
+    {
+      "name": "suleman",
+      "email": "suleman@gmail.com",
+      "password": "suleman123",
+      "id": 4
+    },
+    {
+      "name": "imran",
+      "email": "imran@gmail.com",
+      "password": "imran123",
+      "id": 5
+    },
+    {
+      "name": "sam",
+      "email": "sam@test.com",
+      "password": "sam123",
+      "id": 6
+    },
+    {
+      "name": "john",
+      "email": "john@test.com",
+      "password": "john123",
+      "id": 7
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "address": "F10",
+      "contact": "0900",
+      "id": 1
+    },
+    {
+      "name": "Tayto",
+      "address": "F11",
+      "contact": "0800",
+      "id": 2
+    },
+    {
+      "name": "Quetta Tea",
+      "address": "F10",
+      "contact": "0512",
+      "id": 3
+    }
+  ]
+}
